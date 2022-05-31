@@ -1,7 +1,7 @@
 # Olá Sou João Guilherme!👋
 
-- 🔭 Atualmente trabalhando em  algumas coisas kkkkk😝😝
-- 🌱 Atualmente aprendendo a programar em geral😄
+- 🔭 Atualmente trabalhando em  algumas coisas
+- 🌱 Aprendendo a programar em geral😄
 - 📫 Pode entrar em contato comigo no discord com Joao2708#1044 ou <a href="https://www.instagram.com/joaoguilherme.2708/">instagram</a>
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Sou um escritor também
