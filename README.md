@@ -1,6 +1,6 @@
 # Olá Sou João Guilherme!👋
 
-- 🔭 Atualmente trabalhando em  algumas coisas
+- 🔭 Cursando segundo ano de informática - Cotuca
 - 🌱 Aprendendo a programar em geral😄
 - 📫 Pode entrar em contato comigo no discord com Joao2708#1044 ou <a href="https://www.instagram.com/joaoguilherme.2708/">instagram</a>
 - 😄 Pronouns: ele/dele
