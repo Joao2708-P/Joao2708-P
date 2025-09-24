@@ -1,9 +1,8 @@
 # Olá Sou João Guilherme!👋
 
 - 🔭 Formado pelo cotuca
-- 🌱 Promador Láravel, Node, NextJs, React, C#, DotNet
+- 🌱 Programador Láravel, Node, NextJs, React, C#, DotNet, Dart
 - 📫 Pode entrar em contato comigo no discord com Joao2708#1044 ou <a href="https://www.instagram.com/joaoguilherme.2708/">instagram</a>
-- 😄 Pronouns: ele/dele
 
 <br>
 
